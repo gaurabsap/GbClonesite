@@ -1,1 +1,1 @@
-lert("Start")
+alert("Start")
